@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTools", "EssentialTools\EssentialTools.csproj", "{32BFABDF-024B-4426-9A2E-C4365FD9FF21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTools.Tests", "EssentialTools.Tests\EssentialTools.Tests.csproj", "{FDCBDAE8-8D40-4825-9CC8-940B3C1280CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32BFABDF-024B-4426-9A2E-C4365FD9FF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BFABDF-024B-4426-9A2E-C4365FD9FF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BFABDF-024B-4426-9A2E-C4365FD9FF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BFABDF-024B-4426-9A2E-C4365FD9FF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDCBDAE8-8D40-4825-9CC8-940B3C1280CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCBDAE8-8D40-4825-9CC8-940B3C1280CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCBDAE8-8D40-4825-9CC8-940B3C1280CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCBDAE8-8D40-4825-9CC8-940B3C1280CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD2BF8AC-C2E4-4DE6-8B33-681773AAFB67}
+	EndGlobalSection
+EndGlobal
